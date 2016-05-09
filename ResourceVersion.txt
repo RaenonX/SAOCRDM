@@ -1,0 +1,9 @@
+﻿Dimension/BADict.txt	4
+Dimension/CharaDim.txt	3
+Dimension/CharaSeries.txt	4
+Dimension/DataTitle.txt	3
+Dimension/LSDict.txt	4
+Dimension/CharaHTMLTemplate.txt	1
+Dimension/WPNEffDict.txt	1
+Dimension/PathDict.txt	1
+
